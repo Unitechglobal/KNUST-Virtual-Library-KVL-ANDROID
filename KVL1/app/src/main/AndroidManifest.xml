@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.teamshab.kvl">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/kvl_logo_launcher_round"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/kvl_logo_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/AppThemeNoActionBar" />
+        <activity
+            android:name=".StudentLogin"
+            android:theme="@style/AppThemeNoActionBar" />
+        <activity
+            android:name=".LecturerLogin"
+            android:theme="@style/AppThemeNoActionBar" />
+        <activity
+            android:name=".LibrarianLogin"
+            android:theme="@style/AppThemeNoActionBar" />
+        <activity
+            android:name=".NonStudentLogin"
+            android:theme="@style/AppThemeNoActionBar" />
+        <activity
+            android:name=".NonStudentRegister"
+            android:theme="@style/AppThemeNoActionBar" />
+        <activity
+            android:name=".StudentReference"
+            android:theme="@style/AppThemeNoActionBar" />
+        <activity
+            android:name=".LecturerReference"
+            android:theme="@style/AppThemeNoActionBar" />
+        <activity
+            android:name=".LibrarianReference"
+            android:theme="@style/AppThemeNoActionBar" />
+        <activity
+            android:name=".StudentHomeActivity"
+            android:label="@string/title_activity_student_home"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LecturerHomeActivity"
+            android:label="@string/title_activity_lecturer_home"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LibrarianHomeActivity"
+            android:label="@string/title_activity_libarian_home"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".NonStudentHomeActivity"
+            android:label="@string/title_activity_non_student_home"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".student.StudentProfileActivity"
+            android:label="@string/profile"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".student.StudentForumActivity"
+            android:label="@string/discussion"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".student.StudentOtherCollegeActivity"
+            android:label="@string/other"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".student.StudentSuggestionsActivity"
+            android:label="@string/suggestion"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".student.StudentAboutActivity"
+            android:label="@string/about"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".student.StudentSettingsActivity"
+            android:label="@string/settings"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".librarian.LibrarianProfileActivity"
+            android:label="@string/profile"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".librarian.LibrarianForumActivity"
+            android:label="@string/discussion"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".librarian.LibrarianUploadBookActivity"
+            android:label="@string/upload_book"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".librarian.LibrarianSuggestionsActivity"
+            android:label="@string/suggestion"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".librarian.LibrarianAboutActivity"
+            android:label="@string/about"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".librarian.LibrarianSettingsActivity"
+            android:label="@string/settings"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".nonstudent.NonStudentProfileActivity"
+            android:label="@string/profile"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".nonstudent.NonStudentForumActivity"
+            android:label="@string/discussion"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".nonstudent.NonStudentSuggestionsActivity"
+            android:label="@string/suggestion"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".nonstudent.NonStudentAboutActivity"
+            android:label="@string/about"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".nonstudent.NonStudentSettingsActivity"
+            android:label="@string/settings"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".lecturer.LecturerProfileActivity"
+            android:label="@string/profile"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".lecturer.LecturerForumActivity"
+            android:label="@string/discussion"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".lecturer.LecturerOtherCollegeActivity"
+            android:label="@string/other"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".lecturer.LecturerUploadCourseMaterialActivity"
+            android:label="@string/upload_course_material"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".lecturer.LecturerSuggestionsActivity"
+            android:label="@string/suggestion"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".lecturer.LecturerAboutActivity"
+            android:label="@string/about"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".lecturer.LecturerSettingsActivity"
+            android:label="@string/settings"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".student.StudentTimeTableActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:label="@string/time_table"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/student_home_view"
+        android:title="Home"
+        android:icon="@drawable/ic_home_black_24dp"/>
+
+    <item
+        android:id="@+id/student_coursematerial_view"
+        android:title="Course material"
+        android:icon="@drawable/ic_description_black_24dp"/>
+
+    <item
+        android:id="@+id/student_readlater_view"
+        android:title="Read later"
+        android:icon="@drawable/ic_sort_black_24dp"/>
+
+
+</menu>

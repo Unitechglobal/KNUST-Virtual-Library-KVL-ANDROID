@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">KVL</string>
+    <string name="knust_virtual_library">KNUST Virtual Library</string>
+    <string name="lecturer">Lecturer</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="remember">Remember</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="reference">Reference</string>
+    <string name="continue_reference">Continue</string>
+    <string name="libarian">Librarian</string>
+    <string name="click_on">Click on the + sign</string>
+    <string name="non_student_registration">Non-student registration</string>
+    <string name="non_student">Non-Student</string>
+    <string name="email">Email</string>
+    <string name="register">Register</string>
+    <string name="student">Student</string>
+    <string name="title_activity_student_home">Student</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_lecturer_home">Lecturer</string>
+    <string name="title_activity_libarian_home">Librarian</string>
+    <string name="title_activity_non_student_home">Non-Student</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="discussion">Discussion/Forum</string>
+    <string name="other">Other College</string>
+    <string name="suggestion">Suggestions</string>
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
+    <string name="upload_book">Upload book</string>
+    <string name="upload_course_material">Upload course material</string>
+    <string name="time_table">Time table</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/login_gradient"
+    tools:context="com.teamshab.kvl.NonStudentRegister">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:layout_width="240dp"
+                android:layout_height="120dp"
+                android:padding="16dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="48dp"
+                android:layout_marginBottom="20dp"
+                android:src="@drawable/kvl_logo"/>
+
+            <TextView
+                android:text="@string/non_student"
+                android:textStyle="bold"
+                android:textColor="#fff"
+                android:gravity="center"
+                android:textSize="30sp"
+                android:layout_gravity="center"
+                android:textAllCaps="true"
+                android:padding="8dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <EditText
+                android:id="@+id/non_student_username"
+                android:hint="@string/username"
+                android:inputType="text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:background="@android:color/transparent"
+                android:drawablePadding="12dp"
+                android:padding="8dp"
+                android:textColorHint="#fff"
+                android:maxLines="1"
+                android:textColor="#fff"
+                android:drawableLeft="@drawable/icons8_user_24"
+                android:drawableStart="@drawable/icons8_user_24"
+                android:layout_marginTop="70dp"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#59d7db"/>
+
+            <EditText
+                android:id="@+id/non_student_email"
+                android:hint="@string/email"
+                android:inputType="textEmailAddress"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:background="@android:color/transparent"
+                android:drawablePadding="12dp"
+                android:padding="8dp"
+                android:textColorHint="#fff"
+                android:maxLines="1"
+                android:textColor="#fff"
+                android:drawableLeft="@drawable/icons8_user_24"
+                android:layout_marginTop="8dp"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#59d7db"/>
+
+            <EditText
+                android:id="@+id/non_student_password"
+                android:hint="@string/password"
+                android:inputType="textPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:background="@android:color/transparent"
+                android:drawablePadding="12dp"
+                android:padding="8dp"
+                android:textColorHint="#fff"
+                android:textColor="#fff"
+                android:drawableLeft="@drawable/icons8_lock_filled_20"
+                android:layout_marginTop="4dp"
+                android:maxLines="1" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#59d7db"/>
+
+            <EditText
+                android:id="@+id/non_student_password_confirm"
+                android:hint="@string/confirm_password"
+                android:inputType="textPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:background="@android:color/transparent"
+                android:drawablePadding="12dp"
+                android:padding="8dp"
+                android:textColorHint="#fff"
+                android:textColor="#fff"
+                android:drawableLeft="@drawable/icons8_lock_filled_20"
+                android:layout_marginTop="4dp"
+                android:maxLines="1" />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#59d7db"/>
+
+
+            <Button
+                android:id="@+id/non_student_register_button"
+                android:text="@string/register"
+                android:background="@drawable/login_button"
+                android:padding="8dp"
+                android:layout_marginTop="24dp"
+                android:layout_marginBottom="8dp"
+                android:textColor="@color/colorPrimary"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
