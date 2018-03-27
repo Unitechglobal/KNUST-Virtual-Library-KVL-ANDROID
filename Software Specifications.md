@@ -10,7 +10,7 @@ For the time being the virtual library is to be implemented through an android a
         Overall Description
 KVL for the time being is going to be an android application that allows users to access(download and read) lecture materials for the various courses offered in KNUST as well as additional resources that may be deemed necessary by the librarians. 
 
-    Features
+        Features
  + Sign up and Login to distinguish various users and save user preferences
  + Users able to download available books
  + In built pdf readers (hence resources would basically be in pdf format)
@@ -21,10 +21,10 @@ KVL for the time being is going to be an android application that allows users t
  + Notifications
  + and others which would be approved by the team with time
      
-    System Requirements
- KVL is designed to run on android 4.04 and above. A ram size of 1gb or more is recommended for smooth performance. Internet connectivity would be required for download and syncing of resources.
+        System Requirements
+KVL is designed to run on android 4.04 and above. A ram size of 1gb or more is recommended for smooth performance. Internet connectivity would be required for download and syncing of resources.
 
-    User Characteristics
+        User Characteristics
 KNUST students (full resource access)
 Lecturers (full resource access plus upload ability)
 Teaching Assistants ( extended lecturers access level)
