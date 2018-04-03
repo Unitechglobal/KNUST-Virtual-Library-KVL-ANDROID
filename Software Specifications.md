@@ -12,22 +12,18 @@ KVL for the time being is going to be an android application that allows users t
 
         Features
  + Sign up and Login to distinguish various users and save user preferences
- + Users able to download available books
  + In built pdf readers (hence resources would basically be in pdf format)
- + Users rate and comment on uploaded books
- + Sorting of resources 
  + Offline access to downloaded resources
  + Home with Feed on resources and trends
  + Notifications
- + and others which would be approved by the team with time
-     
-        System Requirements
-KVL is designed to run on android 4.04 and above. A ram size of 1gb or more is recommended for smooth performance. Internet connectivity would be required for download and syncing of resources.
+ + Timetable feature (set personal timetable or personal time schedule)
+ + Discussion forum
+ + Suggestion (ability to suggest preferred book)
+ 
 
         User Characteristics
 KNUST students (full resource access)
 Lecturers (full resource access plus upload ability)
-Teaching Assistants ( extended lecturers access level)
 Librarians (Library managers)
 Non students ( partial resource access)
  
