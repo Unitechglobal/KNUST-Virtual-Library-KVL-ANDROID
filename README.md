@@ -14,7 +14,7 @@ It hopes to provide a sort of virtual library implementation with advanced featu
 Still working on this. Check back later. :wink:
 
 ## Issues and Suggesions
-We are open and ready to work on all issues and recommendations. All contributions are appreciated :point_up:
+We are open and ready to work on all issues and recommendations. All contributions are appreciated :thumbsup:
 Post all issues and or suggestions [here](https://github.com/Unitechglobal/KNUST-Virtual-Library-KVL-ANDROID/issues).
 You can also help with our survey by filling [this google form](https://goo.gl/N2P1qu). *recommended*
 
