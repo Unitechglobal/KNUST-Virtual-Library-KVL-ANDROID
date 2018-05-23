@@ -6,9 +6,11 @@ It hopes to provide a sort of virtual library implementation with advanced featu
 [Continue Reading :blush:](https://github.com/Unitechglobal/KNUST-Virtual-Library-KVL-ANDROID/blob/master/Software%20Specifications.md).
 
 ## Interface as of now 
-<img src="Screenshots/Screenshot_20180326-105855[1].png" width="250"> <img src="Screenshots/Screenshot_20180326-105902[1].png" width="250">
+<img src="Screenshots/Screenshot_20180514-150009.png" width="250"> <img src="Screenshots/Screenshot_20180514-150136.png" width="250"> <img src="Screenshots/Screenshot_20180520-044440.png" width="250">
 
-<img src="Screenshots/Screenshot_20180326-105909[1].png" width="250"> <img src="Screenshots/Screenshot_20180326-105917[1].png" width="250">
+<img src="Screenshots/Screenshot_20180514-150143.png" width="250"> <img src="Screenshots/Screenshot_20180514-150456.png" width="250"> <img src="Screenshots/Screenshot_20180514-150656.png" width="250">
+
+More screenshots [here](https://github.com/Unitechglobal/KNUST-Virtual-Library-KVL-ANDROID/tree/master/Screenshots)
 
 ## Download links
 Download the android app on [play store](https://play.google.com/store/apps/details?id=com.teamshab.kvl) :wink:
