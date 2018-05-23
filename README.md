@@ -15,6 +15,9 @@ More screenshots [here](https://github.com/Unitechglobal/KNUST-Virtual-Library-K
 ## Download links
 Download the android app on [play store](https://play.google.com/store/apps/details?id=com.teamshab.kvl) :wink:
 
+## How to use the app?
+Go [here](https://github.com/Unitechglobal/KNUST-Virtual-Library-KVL-ANDROID/blob/master/Help.md)
+
 ## Issues and Suggesions
 We are open and ready to work on all issues and recommendations. All contributions are appreciated :thumbsup:
 Post all issues and or suggestions [here](https://github.com/Unitechglobal/KNUST-Virtual-Library-KVL-ANDROID/issues).
