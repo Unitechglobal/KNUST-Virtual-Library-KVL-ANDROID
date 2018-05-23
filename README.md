@@ -11,7 +11,7 @@ It hopes to provide a sort of virtual library implementation with advanced featu
 <img src="Screenshots/Screenshot_20180326-105909[1].png" width="250"> <img src="Screenshots/Screenshot_20180326-105917[1].png" width="250">
 
 ## Download links
-Still working on this. Check back later. :wink:
+Download the android app on [play store](https://play.google.com/store/apps/details?id=com.teamshab.kvl) :wink:
 
 ## Issues and Suggesions
 We are open and ready to work on all issues and recommendations. All contributions are appreciated :thumbsup:
