@@ -14,13 +14,14 @@ KVL for the time being is going to be an android application that allows users t
  - Sign up and Login to distinguish various users and save user preferences
  - In built pdf readers (*hence resources would basically be in pdf format*)
  - Offline access to downloaded resources
- - Home with feed on resources and trends
- - timetable (*custom timetable created by user, not actual academic timetable*)
- - Notifications
+ - timetable (*custom timetable created by user, not actual academic timetable*) 
  - Timetable feature (*set personal timetable or personal time schedule*)
- - Discussion forum
- - Suggestion (*ability to suggest preferred book*)
- 
+  ### To Add
+   - Suggestion (*ability to suggest preferred book*)
+   - Discussion forum
+   - Notifications on newly available items
+   - Home with feed on resources and trends
+   
  ## User Characteristics
 - KNUST students (full resource access)
 - Lecturers (full resource access and upload ability)
